@@ -40,28 +40,28 @@ export const SkillsDesc = styled.p`
   margin-bottom: 20px;
 `
 
-export const Bar = styled.div`
-  overflow: hidden;
-  padding: 10px 0;
-  margin-bottom: 10px;
-`
+// export const Bar = styled.div`
+//   overflow: hidden;
+//   padding: 10px 0;
+//   margin-bottom: 10px;
+// `
 
-export const Title = styled.span`
-  float: left;
-`
+// export const Title = styled.span`
+//   float: left;
+// `
 
-export const Perc = styled.span`
-  float: right;
-  margin-right: 100px;
-`
+// export const Perc = styled.span`
+//   float: right;
+//   margin-right: 100px;
+// `
 
-export const Parent = styled.div`
-  height: 2px;
-  clear: both;
-  background: #f8f8f8;
-  position: relative;
-  top: 5px;
-`
+// export const Parent = styled.div`
+//   height: 2px;
+//   clear: both;
+//   background: #f8f8f8;
+//   position: relative;
+//   top: 5px;
+// `
 
 export const ParentSpan = styled.span`
   background: #eb5424;
